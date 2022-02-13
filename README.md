@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Name is Naafi M.
+**My Name is Naafi M.**
 
 <!--
 **dha-lang/dha-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
